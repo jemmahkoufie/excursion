@@ -1,0 +1,46 @@
+body {
+    font-family: "Verdana";
+    background: black;
+}
+
+h1,
+h2 {
+    text-align: center;
+    color: white;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+    text-align: center;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+    text-decoration: underline;
+    text-align: center;
+    display: block;
+}
+
+a:hover {
+    color: aquamarine;
+}
+
+footer {
+    text-align: right;
+}
+
+.main-heading {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.section-heading {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.footer-text {
+    text-align: right;
+}
